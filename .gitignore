@@ -1,0 +1,12 @@
+*~
+dataset/*
+dataset/*/*
+not_dataset/*
+not_dataset/*/*
+*DS_Store*
+uploads/*
+training/
+validation/
+sorted_dataset/
+dataset/
+sorted_not_dataset/
